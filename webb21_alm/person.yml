@@ -1,0 +1,9 @@
+person:
+ name:
+  first_name: Hanna
+  last_name: Tylna
+ age: 32
+ class: elev
+ start_year: 2021
+ hobbies:
+  - sy

@@ -1,0 +1,7 @@
+car:
+ manufacturer: "KIA"
+ model: "Sportage"
+ year: "2019"
+ attributes:
+  - "attributes"
+ reg: "ABD123"

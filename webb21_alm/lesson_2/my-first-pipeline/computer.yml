@@ -1,0 +1,13 @@
+computer:
+ cpu:
+  manufacturer: "manufacturer"
+  cores: 12
+  frequency: 100
+ memory:
+  manufacturer: "manufacturer"
+  size: 1024
+  type: "type"
+ disk:
+  manufacturer: "manufacturer"
+  size: 25
+  type: "type"
